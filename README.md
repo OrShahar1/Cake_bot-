@@ -9,3 +9,14 @@ This is a bot that automatically sends emails to your friends when they need to 
 2. Sends an email to a friend who brings a cake
 
 3. GUI to run the bot
+
+
+
+
+
+todo - 
+1. one firned  per press / list update
+
+2. image of the bot in mail 
+
+3. mail to the boot
