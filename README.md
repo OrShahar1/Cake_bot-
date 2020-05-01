@@ -1,14 +1,24 @@
 # Cake_bot-
 
+The bot that will help you manage your refreshments at the meetings
 
-This is a bot that automatically sends emails to your friends when they need to bring a cake!
+Sending email to friends / group members who need to bring her to the next meeting.
 
+How to act?
 
-1. Holds a mailing list of your group members - changeable
+1. Update the name.txt file according to the emails of your group members
 
-2. Sends an email to a friend who brings a cake
+2. Run the program
 
-3. GUI to run the bot
+3. Write run in the window that pops.
+
+4. What fun! The email has been sent!
+
+Note :
+
+Please note that the mailing list is updated automatically.
+
+The email sent to the person who needs to bring a cake now and come in line
 
 ![](PIC.jfif)
 
@@ -16,8 +26,5 @@ This is a bot that automatically sends emails to your friends when they need to 
 
 
 todo - 
-1. one firned  per press / list update
-
-2. image of the bot in mail 
-
-3. mail to the boot
+image of the bot in mail 
+mail to the boot
