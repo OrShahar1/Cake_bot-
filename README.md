@@ -1,5 +1,5 @@
 # Cake meeting bot- 
-#Designed for high-tech companies that hold group meetings with food
+# Designed for high-tech companies that hold group meetings with food
 
 The bot that will help you manage your refreshments at the meetings
 
