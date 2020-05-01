@@ -1,5 +1,5 @@
-# Cake meeting bot- 
-# Designed for high-tech companies that hold group meetings with food
+# Cake meeting bot 
+# Returns the taste to meetings
 
 The bot that will help you manage your refreshments at the meetings
 
@@ -22,6 +22,11 @@ Please note that the mailing list is updated automatically.
 The email sent to the person who needs to bring a cake now and come in line
 
 ![](PIC.jfif)
+
+
+
+
+# Designed for high-tech companies that hold group meetings with food
 
 
 
