@@ -10,7 +10,7 @@ This is a bot that automatically sends emails to your friends when they need to 
 
 3. GUI to run the bot
 
-![](PIC.png)
+![](PIC.jfif)
 
 
 
