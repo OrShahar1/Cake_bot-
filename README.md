@@ -1,4 +1,4 @@
-# Cake_bot-
+# Cake meeting bot-
 
 The bot that will help you manage your refreshments at the meetings
 
