@@ -7,7 +7,7 @@ Sending email to friends / group members who need to bring her to the next meeti
 
 ![](pic.png)
 
-#How to run?
+# How to run?
 
 1. Add your teammates
 
@@ -17,7 +17,7 @@ Sending email to friends / group members who need to bring her to the next meeti
 
 4. Update the order in the database for next time
 
-#Use:
+# Use:
 
 1. Multi-Processing
 
@@ -25,7 +25,7 @@ Sending email to friends / group members who need to bring her to the next meeti
 
 3. PYQT5
 
-#Note :
+# Note :
 
 Please note that the mailing list is not(!) updated automatically.
 
