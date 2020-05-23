@@ -9,13 +9,13 @@ Sending email to friends / group members who need to bring her to the next meeti
 
 How to run?
 
-1. 
+1. Add your teammates
 
-2. 
+2. If necessary, delete team members
 
-3. 
+3. Highlight the friend who brings a cake - and press the button to send the email
 
-4. 
+4. Update the order in the database for next time
 
 
 ![](images.jpg)
