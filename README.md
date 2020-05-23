@@ -5,23 +5,28 @@ The bot that will help you manage your refreshments at the meetings
 
 Sending email to friends / group members who need to bring her to the next meeting.
 
+![](images.jpg)
+
 How to run?
 
-1. Update the name.txt file according to the emails of your group members
+1. 
 
-2. Run the program
+2. 
 
-3. Write run in the window that pops.
+3. 
 
-4. What fun! The email has been sent!
+4. 
 
 
 ![](images.jpg)
 
 
+
+
+
 Note :
 
-Please note that the mailing list is updated automatically.
+Please note that the mailing list is not(!) updated automatically.
 
 The email sent to the person who needs to bring a cake now and come in line
 
@@ -33,7 +38,3 @@ The email sent to the person who needs to bring a cake now and come in line
 
 
 
-
-todo - 
-image of the bot in mail 
-mail to the boot
