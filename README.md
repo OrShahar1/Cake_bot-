@@ -7,7 +7,7 @@ Sending email to friends / group members who need to bring her to the next meeti
 
 ![](pic.png)
 
-# How to run?
+# How to run?(latest  version - version_2_Cake_bot/todo)
 
 1. Add your teammates
 
