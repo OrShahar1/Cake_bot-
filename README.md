@@ -18,17 +18,15 @@ How to run?
 4. Update the order in the database for next time
 
 
-![](images.jpg)
-
-
-
-
 
 Note :
 
 Please note that the mailing list is not(!) updated automatically.
 
 The email sent to the person who needs to bring a cake now and come in line
+
+
+![](images.jpg)
 
 
 
