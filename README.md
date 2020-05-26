@@ -25,6 +25,8 @@ Sending email to friends / group members who need to bring her to the next meeti
 
 3. PYQT5
 
+4. speech_recognition 
+
 # Note :
 
 Please note that the mailing list is not(!) updated automatically.
