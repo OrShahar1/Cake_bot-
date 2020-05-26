@@ -5,7 +5,7 @@ The bot that will help you manage your refreshments at the meetings
 
 Sending email to friends / group members who need to bring her to the next meeting.
 
-![](pic.png)
+![](pi.png)
 
 # How to run?(latest  version - todo version 3)
 
